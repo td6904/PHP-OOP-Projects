@@ -11,4 +11,4 @@ Open a web browser and go to http://localhost:8000 to view the project.
 
 This repository contains OOP projects with PHP. Copied during the time I was studying PHP, my first coding language at the Wild Code School in Lille, France from September 2022 to December 2022. 
 
-I didn't make much progress but will keep it for practice exercises to come back to. None of the little projects are functional so far.
+I didn't make much progress but will keep it for practice exercises to come back to. None of the little projects are functional so far - except shopping cart https://github.com/td6904/Shopping-Cart-Project-PHP.
